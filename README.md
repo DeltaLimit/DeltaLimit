@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **deltalimit@outlook.com**
 
-- 📄 Know about my experiences [Since I was the number one Java/Kotlin developer, now I'm happy with Golang :)](Since I was the number one Java/Kotlin developer, now I'm happy with Golang :))
+- 📄 Know about my experiences Since I was the number one Java/Kotlin developer, now I'm happy with Golang :)](Since I was the number one Java/Kotlin developer, now I'm happy with Golang :)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
