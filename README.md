@@ -1,6 +1,3 @@
-<h1 align="center">Hi 👋, I'm DeltaLimit</h1>
-<h3 align="center">15 year old Chinese high school student</h3>
-
 ~~~go
 package main
 
@@ -8,11 +5,17 @@ var DeltaLimit struct {
   Name string
   Location string
   Skills string
+  Age int
 }
 
 func main() {
-  DeltaLimit := &DeltaLimit = 
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=deltalimit&show_icons=true&locale=en&layout=compact" alt="deltalimit" /></p>
-
-
+  DeltaLimit := &DeltaLimit {
+    Name:     "DeltaLimit"
+    Location: "Asia/Shanghai"
+    Skills:   "GoLang, MySQL, MongoDB, Java, Kotlin, Lua"
+    Age:      15
+  }
+  
+  fmt.Println(DeltaLimit)
+}
+~~~
