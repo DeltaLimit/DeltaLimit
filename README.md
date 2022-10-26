@@ -10,9 +10,9 @@ var DeltaLimit struct {
 
 func main() {
   DeltaLimit := &DeltaLimit {
-    Name:     "DeltaLimit"
-    Location: "Asia/Shanghai"
-    Skills:   "GoLang, MySQL, MongoDB, Java, Kotlin, Lua"
+    Name:     "DeltaLimit",
+    Location: "Asia/Shanghai",
+    Skills:   "GoLang, MySQL, MongoDB, Java, Kotlin, Lua",
     Age:      15
   }
   
