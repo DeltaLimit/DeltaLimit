@@ -1,21 +1,19 @@
 ~~~go
 package main
 
-var DeltaLimit struct {
-  Name string
-  Location string
-  Skills string
-  Age int
+type DeltaLimit struct {
+	Name     string `json:"Name"`
+	Location string `json:"Location"`
+	Skills   string `json:"Skills"`
+	Age      int    `json:"Age"`
 }
 
 func main() {
-  DeltaLimit := &DeltaLimit {
-    Name:     "DeltaLimit",
-    Location: "Asia/Shanghai",
-    Skills:   "GoLang, MySQL, MongoDB, Java, Kotlin, Lua",
-    Age:      15
-  }
-  
-  fmt.Println(DeltaLimit)
+	var ME DeltaLimit
+	ME.Name = "DeltaLimit"
+	ME.Age = 15
+	ME.Skills = "GoLang, MySQL, SQLite, MongoDB, Redis, Lua, Java, Kotlin"
+	ME.Location = "Asia/Shanghai"
 }
+
 ~~~
