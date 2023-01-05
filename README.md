@@ -6,4 +6,5 @@ This is Tsubaki_Shirona, 15yr high school student in China.
 
 ### About my Github
 ![visitor](https://komarev.com/ghpvc/?username=deltalimit&label=Profile%20views&color=0e75b6&style=flat)
-[![Tsubaki's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeltaLimit)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DeltaLimit&theme=radical)
