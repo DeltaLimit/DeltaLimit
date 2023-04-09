@@ -1,6 +1,3 @@
-### Welcome!
-This is Tsubaki_Shirona, 16yr high school student in China.
-
 ### Contact me:
 https://t.me/TsubakiShirona
 
